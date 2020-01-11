@@ -33,6 +33,11 @@
   },
   "devDependencies": {
     "@testing-library/react": "^9.4.0",
+<<<<<<< HEAD
     "axios-mock-adapter": "^1.17.0"
+=======
+    "axios-mock-adapter": "^1.17.0",
+    "jest": "^24.9.0"
+>>>>>>> d7aa0baae3cfaaa26b97321f6c67f00e031cf14a
   }
 }
